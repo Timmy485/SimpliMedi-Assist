@@ -1,7 +1,5 @@
-python-dotenv
-llama-index
-Flask
 streamlit
 PyPDF2
 python-docx
 openai
+python-dotenv
