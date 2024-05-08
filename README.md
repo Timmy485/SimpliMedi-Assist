@@ -1,11 +1,11 @@
 # SimpliMedi-Assist
 
 
-SimpliMedi-Assist is a Streamlit web app that simplifies medical reports for users. It offers an intuitive interface for uploading PDFs, DOCX, or TXT files. 
-The app extracts text from these files and presents a customized preview for users to review.  <br></br>
-Using OpenAI's GPT-3.5 model, SimpliMedi-Assist generates comprehensive explanations in two parts: <br>
-Report Explanation breaks down the report's terms and findings, while Simplified Explanation offers plain English summaries tailored for non-medical users. <br>
-Built on Streamlit, the app ensures a seamless user experience. SimpliMedi-Assist democratizes medical information, empowering users to understand their health reports efficiently and confidentially.
+
+SimpliMedi-Assist is a user-friendly web application designed to make complex medical reports understandable for everyone. 
+By simply uploading their medical documents, users can receive clear and concise explanations of the content, regardless of their medical background. <br>
+The app utilizes advanced natural language processing technology to break down the reports into easy-to-understand summaries, empowering users to take control of their health with confidence and clarity. 
+With its intuitive interface and seamless integration, SimpliMedi-Assist offers a convenient solution for accessing and comprehending medical information effortlessly.
 
 ## Features
 
